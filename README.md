@@ -1,8 +1,6 @@
 # sprint7-final-project
 Repositorio donde se documenta el proyecto final del Sprint 7 del Bootcamp de Analisis de datos en Tripleten
 
-# Análisis de clientes y uso de telecomunicaciones
-
 ## Objetivo del proyecto
 
 El objetivo de este proyecto es analizar el comportamiento de uso de los clientes de ConnectaTel, limpiar y preparar los datos, identificar patrones de consumo y segmentar a los usuarios para obtener conclusiones útiles para el negocio.
