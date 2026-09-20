@@ -1,5 +1,4 @@
-# sprint7-final-project
-Repositorio donde se documenta el proyecto final del Sprint 7 del Bootcamp de Analisis de datos en Tripleten
+# Proyecto Sprint 7: Análisis de una empresa de telecomunicaciones
 
 ## Objetivo del proyecto
 
